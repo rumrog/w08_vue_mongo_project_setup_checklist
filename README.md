@@ -21,7 +21,7 @@ server/node_modules/
 
 ## Front-End `/client`
 
-1. Create `client` folder with Vue [`-n` flag to avoid git init]
+5. Create `client` folder with Vue [`-n` flag to avoid git init]
 ```
 vue create -n client
 ```
