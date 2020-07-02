@@ -6,6 +6,7 @@ mkdir project_name
 ```
 2. Git init
 ```
+cd project_name
 git init
 ```
 3. Create .gitignore
@@ -20,9 +21,8 @@ server/node_modules/
 
 ## Front-End `/client`
 
-5. Create `client` folder with Vue [`-n` flag to avoid git init]
+1. Create `client` folder with Vue [`-n` flag to avoid git init]
 ```
-cd project_name
 vue create -n client
 ```
 
